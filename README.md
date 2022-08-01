@@ -1,6 +1,6 @@
 # rentweb-online product rental website.
 
--> This website is designed for a local user to give their day-to-day products on rent as well as take it on rent.
+-> This website is designed for a local user of a society to give their day-to-day products on rent as well as take it on rent.
 
 -> Technology used - html,css,Javascript for frontend and php for backend.
 
